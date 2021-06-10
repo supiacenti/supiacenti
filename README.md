@@ -7,5 +7,5 @@
 <div>
   <a href="https://github.com/supiacenti">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=supiacenti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supiacenti&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supiacenti&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
